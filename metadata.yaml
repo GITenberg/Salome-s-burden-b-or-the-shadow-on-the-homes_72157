@@ -5,6 +5,9 @@ contributor:
     agent_name: Howard, C.
     gutenberg_agent_id: '56548'
     url: http://www.gutenberg.org/2009/agents/56548
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, Eleanora H.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '55669'
     url: http://www.gutenberg.org/2009/agents/55669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72157#Salome-s-burden-b-or-the-shadow-on-the-homes
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72157'
